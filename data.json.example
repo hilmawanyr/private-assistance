@@ -1,0 +1,23 @@
+{
+    "name": "Qiya Namiyah Yusuf",
+    "own_email": "",
+    "email_receiver": [
+        "who@mail.com"
+    ],
+    "schedules": [
+        "reading",
+        "makan roti"
+    ],
+    "jokes": [
+        {
+            "about": "mandi",
+            "joke": "orang mandi biar apa?",
+            "answer": "biar byur"
+        },
+        {
+            "about": "tikus",
+            "joke": "tikus yang kakinya dua? mickey mouse. kalo bebek yang kakinya dua?",
+            "answer": "semua bebek kakinya dua"
+        }
+    ]
+}
